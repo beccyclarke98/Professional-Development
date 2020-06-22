@@ -8,6 +8,8 @@ The pitch is a powerpoint presentation to show people what our product is about 
 
 This section includes our completed product and report.
 
-Within the whole of the project as a group we used this github to upload our work to an alias, i have reuploaded it onto my personal account within this folder but if you would like to see the original please find it here:
+Within the whole of the project as a group we used this github to upload our work to an alias, please find it here:
 
  - [Original GitHub Upload](https://github.com/ParkElsewhereDev)
+
+I have reuploaded the report for your convience.
