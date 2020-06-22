@@ -8,4 +8,6 @@ The pitch is a powerpoint presentation to show people what our product is about 
 
 ## The Showcase
 
+This section includes our completed product and report.
+
 ## Reflection
